@@ -4,6 +4,8 @@ T-witter clone
 Web-Crunch youtube channel
 Everything is working now
 
+![T-witter](./Screenshot.png)
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
